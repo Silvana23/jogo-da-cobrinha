@@ -1,0 +1,27 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(44, 139, 44);
+}
+
+#pontuacao-game {
+    background-color: rgb(34, 63, 196);
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    padding: 5px 50px;
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#pontuacao-game img {
+    margin-right: 15px;
+}
